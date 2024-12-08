@@ -1,0 +1,14 @@
+// .cspell.json
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "heloo"
+  ],
+  "ignorePaths": [
+    "**/node_modules/**",
+    "**/package.json",
+    "**/yarn.lock",
+    "cspell.json",
+  ]
+}
